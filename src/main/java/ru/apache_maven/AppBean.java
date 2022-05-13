@@ -1,5 +1,7 @@
 package ru.apache_maven;
 
+int test = 2;
+int test = 2;
 public class AppBean 
 {
 	private String text; 
