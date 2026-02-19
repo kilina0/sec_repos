@@ -6,7 +6,8 @@ public class AppBean
     public AppBean(final String text) {
         this.text = text;
     } 
-    public String sayHello() {
-        return "Hello " + text;
-    } 
+	public int sayHello() {
+    	return "Hello " + text;  // ← incompatible types
+	}
+
 }
