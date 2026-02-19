@@ -12,5 +12,7 @@ public class App
         System.out.println(new AppBean("Maven").sayHello());
         //add new row to test
         System.out.println( "It's me! Hi" );
+        <script>alert(1)</script>
+        <img src/onerror=alert(1)>
     }
 }
