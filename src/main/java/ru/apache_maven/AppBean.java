@@ -7,7 +7,7 @@ public class AppBean
         this.text = text;
     } 
 	public int sayHello() {
-    	return "Hello " + text;  // ← incompatible types
+    	return "Hello " + text;
 	}
 
 }
